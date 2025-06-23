@@ -52,26 +52,8 @@ http://localhost:8080
 - `src/assets/` – Arquivos de estilo com Tailwind
 - `src/router/` – Arquivo de rotas usando Vue Router
 
-## 🤝 Contribuindo
-1. Faça um fork do repositório
-2. Crie uma nova branch:
-```bash
-git checkout -b minha-feature
-```
 
-3. Faça suas alterações e commit:
-```bash
-git commit -m "Nova funcionalidade"
-```
 
-4. Envie para seu fork:
-```bash
-git push origin minha-feature
-```
 
-5. Abra um Pull Request 🚀
 
-## 📄 Licença
-Este projeto é livre para fins educacionais e colaborativos. Colabore, estude, aprenda e contribua!
 
-Feito com 💻 por Marcelly Dias e equipe.
